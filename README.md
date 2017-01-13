@@ -8,4 +8,4 @@ LibXL is a library that can read and write Excel files. It doesn't require Micro
     Edit an existing spreadsheet
 
 
-how to use libxl..
+
